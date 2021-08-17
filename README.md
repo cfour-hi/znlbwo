@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on TanZhouEDU
+- 👨‍💻 I use my spare time to develop the [sky](https://github.com/znlbwo/sky)
+- ⛹🏻‍♂️ Basketball is my favorite sport
+- 🏃🏻‍♂️ Keep running
+- 🎮 Dota
+
+持续阅读，持续输出。
+
 <!--
 **znlbwo/znlbwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
