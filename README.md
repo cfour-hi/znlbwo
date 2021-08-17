@@ -4,7 +4,7 @@
 - 👨‍💻 I use my spare time to develop the [sky](https://github.com/znlbwo/sky)
 - ⛹🏻‍♂️ Basketball is my favorite sport
 - 🏃🏻‍♂️ Keep running
-- 🎮 Dota
+- 🎮 Dota(Don't play anymore)
 
 持续阅读，持续输出。
 
