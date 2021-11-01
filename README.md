@@ -7,10 +7,10 @@
 - 🏃🏻‍♂️ Keep running
 - 🎮 Dota is my favorite game, But don't play anymore
 
-### 个人思维
+<!-- ### 个人思维
 
 - 阅读、思考、输出、讨论、迭代
-- 技术用来解决问题才有价值
+- 技术用来解决问题才有价值 -->
 
 <!--
 **znlbwo/znlbwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
