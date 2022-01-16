@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🙋🏻‍♂️ My name is zhouxiang (周祥)
-- 🔭 I’m currently working on TanZhouEDU（潭州教育）
+<!-- - 🔭 I’m currently working on  -->
 - 👨‍💻 I use my spare time to develop the [sky](https://github.com/znlbwo/sky)
 - ⛹🏻‍♂️ Basketball is my favorite sport
 - 🏃🏻‍♂️ Keep running
